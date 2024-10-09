@@ -41,7 +41,8 @@ O Spotify Clone é uma aplicação web desenvolvida para replicar algumas das fu
 -  Implementação de botões interativos para criação de playlists e exploração de podcasts.
 -  Inclusão de uma barra de busca funcional para melhorar a experiência do usuário na navegação de conteúdos.
 
-
+<br>
+<img src="https://raw.githubusercontent.com/EduardoDev98/projeto-spotify/4db8fc3fdf18cee57e6973fc6c973882418ee372/img/Captura%20de%20tela%202024-10-03%20170733.png" alt="logo-spotify"/>
 
 
 
